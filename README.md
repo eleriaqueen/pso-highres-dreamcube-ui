@@ -21,9 +21,9 @@ Links to the main page are preferred to links that point to the releases section
 ## How to get rid of the teal lines on menu screen
 
 There's an AR code for that !
-You'll find one for your game version on there -> https://github.com/eleriaqueen/psogc-codes-backup
+You'll find one for your game version on this repo -> https://github.com/eleriaqueen/psogc-codes-backup
 
-There are a code to get rid of the black background on menu screen...
+There is even a code to get rid of the black background on menu screen...
 
 ## Legal
 Phantasy Star Online is a registered trademark of SEGA in the United States and other countries.
