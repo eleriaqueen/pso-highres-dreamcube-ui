@@ -18,12 +18,17 @@ Links to the main page are preferred to links that point to the releases section
   
 </details>
 
+## How to download
+
+Click on the link : [Latest Release](https://github.com/eleriaqueen/pso-highres-dreamcube-ui/releases/latest) and download the available release zip file.
+
 ## How to get rid of the teal lines on menu screen
 
 There's an AR code for that !
-You'll find one for your game version on this repo -> https://github.com/eleriaqueen/psogc-codes-backup
 
-There is even a code to get rid of the black background on menu screen...
+[PSOGC AR Codes Backup](https://github.com/eleriaqueen/psogc-codes-backup)
+
+(Almost all codes were made by Ralf(at)gc-forever)
 
 ## Legal
 Phantasy Star Online is a registered trademark of SEGA in the United States and other countries.
