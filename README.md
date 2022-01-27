@@ -5,6 +5,19 @@ Available for downlad as a _Resource Pack_ compatible with Dolphin emulator.
 
 __Does not work on real hardware__
 
+## Important
+I would ask that you do not create mirrors, re-packs, edits, and that you do not include any file from this project in another project. Thank you.
+
+Links to the main page are preferred to links that point to the releases section.
+
+## Showcase
+<details>
+  <summary>Image(s)</summary>
+  
+  ![Showcase A](showcase_a.png)
+  
+</details>
+
 ## Legal
 Phantasy Star Online is a registered trademark of SEGA in the United States and other countries.
 This project is not endorsed, sponsored, nor authorized by SEGA.
