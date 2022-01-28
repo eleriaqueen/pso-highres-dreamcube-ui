@@ -1,5 +1,5 @@
 # PSO High Resolution "Dreamcube" UI
-Fan-made High resolution UI for Phantasy Star Online Ep. I&II (& Plus).
+Fan-made High resolution UI for Phantasy Star Online Ep. I&II (and Plus).
 
 Available for downlad as a _Resource Pack_ compatible with Dolphin emulator.
 
