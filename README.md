@@ -22,13 +22,31 @@ Links to the main page are preferred to links that point to the releases section
 
 Click on the link : [Latest Release](https://github.com/eleriaqueen/pso-highres-dreamcube-ui/releases/latest) and download the available release zip file.
 
-## How to get rid of the teal lines on menu screen
+## How to remove the teal lines on menu screen
 
-There's an AR code for that !
+Ralf(at)gc-forever made codes for PSO EpI&II USA 1.00 / 1.01 and 1.02 (Plus) which tackle this issue.
 
-[PSOGC AR Codes Backup](https://github.com/eleriaqueen/psogc-codes-backup)
+<details>
+  <summary>PSO Ep.I&II USA 1.00</summary>
+  
+  ```
+  Disable light-blue/teal lines on menu screen [Ralf] (may also work for v1.01)
+  0424C090 60000000
+  0424C0C8 60000000
+  ```
+  
+</details>
 
-(Almost all codes were made by Ralf(at)gc-forever)
+<details>
+  <summary>PSO Ep.I&II USA 1.02 (Plus)</summary>
+  
+  ```
+  Disable light-blue/teal lines on menu screen [Ralf]
+  0424D20C 60000000
+  0424D244 60000000
+  ```
+  
+</details>
 
 ## Legal
 Phantasy Star Online is a registered trademark of SEGA in the United States and other countries.
