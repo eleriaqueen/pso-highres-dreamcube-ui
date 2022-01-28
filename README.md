@@ -15,6 +15,7 @@ Links to the main page are preferred to links that point to the releases section
   <summary>Image(s)</summary>
   
   ![Showcase A](showcase_a.png)
+  ![Showcase B](showcase_b.png)
   
 </details>
 
