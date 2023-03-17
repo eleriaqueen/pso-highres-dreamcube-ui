@@ -25,8 +25,6 @@ Click on the link : [Latest Release](https://github.com/eleriaqueen/pso-highres-
 
 ## How to remove the teal lines on menu screen
 
-Ralf(at)gc-forever made codes for PSO EpI&II PAL / USA 1.00 / 1.01 and 1.02 (Plus) which tackle this issue.
-
 <details>
   <summary>PSO Ep.I&II PAL</summary>
   
