@@ -25,13 +25,24 @@ Click on the link : [Latest Release](https://github.com/eleriaqueen/pso-highres-
 
 ## How to remove the teal lines on menu screen
 
-Ralf(at)gc-forever made codes for PSO EpI&II USA 1.00 / 1.01 and 1.02 (Plus) which tackle this issue.
+Ralf(at)gc-forever made codes for PSO EpI&II PAL / USA 1.00 / 1.01 and 1.02 (Plus) which tackle this issue.
 
+<details>
+  <summary>PSO Ep.I&II PAL</summary>
+  
+  ```
+  Disable Specific Vert/Hori Teal Lines in Menu [Ralf and Fuzziqer]
+  0424CA50 60000000
+  0424CA8C 60000000
+  ```
+  
+</details>
+  
 <details>
   <summary>PSO Ep.I&II USA 1.00</summary>
   
   ```
-  Disable light-blue/teal lines on menu screen [Ralf] (may also work for v1.01)
+  Disable Specific Vert/Hori Teal Lines in Menu [Ralf] (may also work for v1.01)
   0424C090 60000000
   0424C0C8 60000000
   ```
@@ -42,7 +53,7 @@ Ralf(at)gc-forever made codes for PSO EpI&II USA 1.00 / 1.01 and 1.02 (Plus) whi
   <summary>PSO Ep.I&II USA 1.02 (Plus)</summary>
   
   ```
-  Disable light-blue/teal lines on menu screen [Ralf]
+  Disable Specific Vert/Hori Teal Lines in Menu [Ralf]
   0424D20C 60000000
   0424D244 60000000
   ```
